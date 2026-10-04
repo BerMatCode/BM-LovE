@@ -1,0 +1,6 @@
+{
+  "name": "BM LOVE",
+  "description": "Una romántica carta de amor interactiva con contador exacto de días desde el 10 de noviembre de 2023, música suave, cartas mensuales para cada aniversario y recordatorio cada día 10 a las 6:00 AM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
